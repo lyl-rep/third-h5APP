@@ -5,13 +5,15 @@
   </div>
 </template>
 
+
+
+<script>
 // ssdkj 
 // sdkjflkj
 // sdfjlk
 // 哈哈哈哈
 // xixixi
-
-<script>
+// hahah
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
